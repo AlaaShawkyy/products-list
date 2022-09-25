@@ -1,0 +1,26 @@
+
+.inputs{
+ 
+    width: fit-content;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    border-radius: 10px;
+}
+
+body{
+    background-image: url(../images/imagess.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+table th{
+    color: #fff;
+    font-size: 20px;
+}
+
+#tableDisplay{
+    color: #fff;
+}
+
+.box{
+    color: #fff;
+}
